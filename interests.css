@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script');
+
+
+.videoContainer{
+    height: 60%;
+    width: 100%
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+div{
+    background-color: pink;
+}
+
+body{
+    background-color: pink;
+}
+h1{ 
+    font-style: italic;
+
+    font-family: 'Clicker Script', cursive;
+}
+h1:hover {
+ color: blue;
+}
+a{
+    color:black;
+}
